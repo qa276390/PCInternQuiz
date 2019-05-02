@@ -25,7 +25,7 @@ To start this project we have to download dataset from Kaggle and put those file
     ├── data 
     │   ├── train_responses.csv             # training list
     |   └── train_imgs                     
-    |       ├── *.png                      # training images
+    |       ├── *.png                       # training images
     |       └── ...                   
     └── ...
 
